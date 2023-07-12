@@ -1,5 +1,5 @@
 {
-    "name": "tailflow/laravel-orion",
+    "name": "chudno/laravel-orion",
     "description": "Laravel Orion allows you to build a fully featured REST API based on your Eloquent models and relationships with the simplicity of Laravel as you love it.",
     "keywords": [
         "laravel",
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.2",
         "ext-json": "*",
         "doctrine/dbal": "^2.9|^3.1",
         "illuminate/bus": ">=5.7",
